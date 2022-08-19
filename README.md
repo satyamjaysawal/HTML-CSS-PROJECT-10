@@ -11,7 +11,7 @@ This one is a Interior Design Landing Page which is created using HTML & CSS. Th
 
 ## 🔗PROJECT-10 : _Screenshot_
 
-![Project 10](thumbnail.png)
+![Project 10](thumbnail.PNG)
 
 ## 🔗__This is tenth Project of Html & CSS with mobile responsive_
 
