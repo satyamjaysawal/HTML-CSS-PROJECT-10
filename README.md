@@ -3,11 +3,6 @@
 This one is a Interior Design Landing Page which is created using HTML & CSS. This website is currently mobile responsive.
 ![shield](https://img.shields.io/badge/Project-Landing%20page-red) ![shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![shield](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-# [ineuron.ai](https://ineuron.ai/)  : Learn from the best of industry
-
-###### _Highest in quality, affordable in price_
-
-[![ineuron](https://user-images.githubusercontent.com/108862706/184478502-02f2c131-c006-43e0-a88c-a25c1376739a.png)](https://ineuron.ai/)
 
 ## 🔗PROJECT-10 : _Screenshot_
 
